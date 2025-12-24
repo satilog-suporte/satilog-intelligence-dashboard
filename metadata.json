@@ -1,0 +1,5 @@
+{
+  "name": "Satilog Intelligence Dashboard",
+  "description": "A high-performance operational dashboard for logistics management, tracking delivery deadlines, perishables validity, and carrier performance.",
+  "requestFramePermissions": []
+}
